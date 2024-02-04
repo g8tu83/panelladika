@@ -4,7 +4,7 @@
   "alpha": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
   "ant1": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8",
   "ert1": "https://telmacosa.s.llnwi.net/osY/ERT/default/index.m3u8",
-  "ert2": "https://telmacosa.s.llnwi.net/osY/ERT2/default/index.mpd",
+  "ert2": "https://telmacosa.s.llnwi.net/osY/ERT2/default/index.m3u8",
   "ert3": "https://telmacosa.s.llnwi.net/osY/ERT3/default/index.m3u8",
   "ertnews": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8",
   "maktv": "https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8",
