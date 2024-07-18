@@ -3,7 +3,7 @@
 
   "alpha": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
   "ant1": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8",
-  "ert1": "https://kontaminis.kitsopoulos.xyz/ch1/index.m3u8",
+  "ert1": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8",
   "ert2": "https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8",
   "ert3": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.m3u8",
   "ertnews": "https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8",
