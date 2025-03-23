@@ -1,16 +1,16 @@
 {
   "PANELLADIKA AD REQUEST MS": "1200000",
 
-  "alpha": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
+  "alpha": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
   "ant1": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
-  "ert1": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8",
-  "ert2": "https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8",
-  "ert3": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8",
-  "ertnews": "https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8",
+  "ert1": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.m3u8",
+  "ert2": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.m3u8",
+  "ert3": "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.m3u8",
+  "ertnews": "https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8",
   "maktv": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
-  "mega": "",
+  "mega": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
   "open": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
-  "sky": "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+  "sky": "https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8",
   "star": "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8",
-  "vouli": "https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8"
+  "vouli": "https://ertflix.akamaized.net/ertlive/vouli/default/index.m3u8"
 }
