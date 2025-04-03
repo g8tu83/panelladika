@@ -8,7 +8,7 @@
   "ert3": "https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.m3u8",
   "ertnews": "https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8",
   "maktv": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
-  "mega": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
+  "mega": "",
   "open": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
   "sky": "https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8",
   "star": "https://livestar.siliconweb.com/media/star4/star4newhd.m3u8",
